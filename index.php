@@ -1,7 +1,11 @@
 <?php
+<<<<<<< HEAD
 Modif branch 2 jhqghkh
 
 <jgfgfjsbjs
+=======
+Modif test pour branch 1
+>>>>>>> master
 // Page créé par Shepard [Fabian Pijcke] <Shepard8@laposte.net>
 // Arno Esterhuizen <arno.esterhuizen@gmail.com>
 // et Romain Bourdon <rromain@romainbourdon.com>
